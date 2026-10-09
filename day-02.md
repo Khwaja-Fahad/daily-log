@@ -1,4 +1,4 @@
-# Day 2 - 2026-10-07
+# Day 2 - 2026-10-08
 
 ## Defensive vs offensive security
 Offensive security means thinking like an attacker: finding weaknesses in
