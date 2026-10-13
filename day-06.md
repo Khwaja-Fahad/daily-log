@@ -7,7 +7,6 @@ I learned about the main parts of Windows and the tools used to manage it:
   running on a machine.
 - **Control Panel:** where system settings are managed (users, programs,
   network and so on).
-- [Add any other tools the room showed you]
 
 ## Most interesting thing: Windows Security
 I already knew Windows Security scans for viruses, but I didn't think it
@@ -39,5 +38,3 @@ defence and should stay turned on.
 - `exiftool` shows that a photo can leak private details like location,
   so it's worth thinking before sharing original images online.
 
-Important: I only run these on lab machines or systems I own or have
-permission to test.
