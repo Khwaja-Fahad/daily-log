@@ -100,7 +100,7 @@ POST, PUT and DELETE requests and watched the responses.
   protect them.
 - **Headers:** the `User-Agent` and other headers show up in logs and
   help defenders investigate.
-
+  
 ## Time and completion
 - Time spent: 30 minutes
 - Room completed: 100%
