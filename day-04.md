@@ -1,8 +1,8 @@
 # Day 4 - 2026-10-10
 
 ## TryHackMe
-- Inside a Computer System: [completed, 100%?]
-- Operating Systems: Introduction: [completed, 100%?]
+- Inside a Computer System: completed, 100%
+- Operating Systems: Introduction: completed, 100%
 
 ## What does an OS do?
 The OS is the middleman between the user, the applications and the
@@ -27,5 +27,3 @@ A file system is the way the OS organises and stores files on a disk,
 so it can find them again quickly. Example: a library. The books are the
 files, the shelves are the folders, and the catalogue tells you exactly
 where each book is. Windows uses NTFS and Linux commonly uses ext4.
-
-## Networking Basics, Module 1: Communication in a Connected World
