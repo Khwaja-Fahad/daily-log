@@ -9,8 +9,6 @@ I learned that cyber security has many different career paths, not just
 - **Security Engineer:** builds and maintains security tools and systems
 - **GRC Analyst:** handles risk, rules and compliance
 
-The role that interests me most now: [YOUR CHOICE and why, one sentence].
-
 ## Computer Fundamentals: inside a computer
 I learned what the main parts of a computer are and how they work together.
 - **Motherboard:** the main circuit board that connects every component
@@ -40,9 +38,6 @@ lets programs and users work with the computer. It handles:
 - Memory
 - Files and storage
 - Users and permissions
-
-Common examples: Windows, Linux, macOS. [Add anything else the room
-taught you, e.g. the kernel or how Linux differs from Windows.]
 
 ## Terminal practice (Linux)
 - `ls` lists files in the current folder
