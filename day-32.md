@@ -1,4 +1,4 @@
-# Day 33 - 2026-11-22
+# Day 32 - 2026-11-22
 
 ## Python: Simple Demo (TryHackMe)
 Room completed: 100% (all 5 tasks)
@@ -65,7 +65,7 @@ The program picked a secret number, took guesses, and gave a hint ("too low" or 
 - My earlier Python work (pandas and NumPy for data) builds on exactly these basics.
 
 ## Why this matters for security
-- The ExxonMobil job ad lists **basic scripting or automation with Python or PowerShell** as an advantage.
+- The job ad lists **basic scripting or automation with Python or PowerShell** as an advantage.
 - Analysts use Python to **parse logs**, count events, filter suspicious activity, check IP addresses against lists and automate repeated tasks.
 - Understanding code helps me read and judge scripts, including ones an attacker might write, and also AI-written scripts (always read and test before running).
 - Attackers also automate with loops (for example password guessing), so knowing how they work helps me defend against them.
